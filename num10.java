@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class num10  {
     public static void main(String[] args) {
         double first, second, third;
-        double mean, variance, standard_deviation
+        double mean, variance, standard_deviation;
         
         Scanner num = new Scanner(System.in);
         System.out.println("Enter first num");
